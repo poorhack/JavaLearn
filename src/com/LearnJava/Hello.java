@@ -10,7 +10,6 @@ public class Hello {
 			System.out.println("Hello World\r\n");
 			i++;
 		}while(i<5);
-		
 	}
 
 }
